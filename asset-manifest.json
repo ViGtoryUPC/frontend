@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ViGtoryUPC/static/css/main.64e5ecb9.chunk.css",
+    "main.js": "/ViGtoryUPC/static/js/main.94c8a1ea.chunk.js",
+    "main.js.map": "/ViGtoryUPC/static/js/main.94c8a1ea.chunk.js.map",
+    "runtime-main.js": "/ViGtoryUPC/static/js/runtime-main.5a29f4e8.js",
+    "runtime-main.js.map": "/ViGtoryUPC/static/js/runtime-main.5a29f4e8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ViGtoryUPC/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e2211b11.chunk.js": "/ViGtoryUPC/static/js/2.e2211b11.chunk.js",
+    "static/js/2.e2211b11.chunk.js.map": "/ViGtoryUPC/static/js/2.e2211b11.chunk.js.map",
+    "index.html": "/ViGtoryUPC/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ViGtoryUPC/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.64e5ecb9.chunk.css.map": "/ViGtoryUPC/static/css/main.64e5ecb9.chunk.css.map",
+    "static/js/2.e2211b11.chunk.js.LICENSE.txt": "/ViGtoryUPC/static/js/2.e2211b11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a29f4e8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e2211b11.chunk.js",
+    "static/css/main.64e5ecb9.chunk.css",
+    "static/js/main.94c8a1ea.chunk.js"
+  ]
+}
